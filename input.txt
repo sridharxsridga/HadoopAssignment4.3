@@ -1,0 +1,4 @@
+Wine is free, open source software capable of running windows application on Linux. Using Wine we can run almost any windows software on Ubuntu Linux. We can even install Microsoft office on Ubuntu using the wine.
+In this tutorial we are going to learn how to install and configure wine on Ubuntu 16.04 Desktop operating system. This method also works on Ubuntu 14.04 Desktop.
+Configure Wine on Ubuntu 16.04
+Before we begin to install Ubuntu Notepad++, You need to install and Configure Wine Windows program loader on Ubuntu Desktop. So please read the following tutorial to learn How to Configure Wine on Ubuntu 16.04.
